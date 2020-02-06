@@ -1,1 +1,1 @@
-Text exercicis git
+Text modificat des de branch1.
